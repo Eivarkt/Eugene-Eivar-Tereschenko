@@ -1,0 +1,15 @@
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Важливі файли\01 Коледж\Programing\Дайте відповіді на запитання та виконайте вправи\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

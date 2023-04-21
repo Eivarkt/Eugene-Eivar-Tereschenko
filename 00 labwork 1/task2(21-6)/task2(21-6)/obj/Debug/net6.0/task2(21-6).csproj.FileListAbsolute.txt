@@ -1,0 +1,15 @@
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\bin\Debug\net6.0\task2(21-6).exe
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\bin\Debug\net6.0\task2(21-6).deps.json
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\bin\Debug\net6.0\task2(21-6).runtimeconfig.json
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\bin\Debug\net6.0\task2(21-6).dll
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\bin\Debug\net6.0\task2(21-6).pdb
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).csproj.AssemblyReference.cache
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).AssemblyInfoInputs.cache
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).AssemblyInfo.cs
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).csproj.CoreCompileInputs.cache
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).dll
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\refint\task2(21-6).dll
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).pdb
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\task2(21-6).genruntimeconfig.cache
+C:\Важливі файли\Programing\labwork 1\task2(21-6)\task2(21-6)\obj\Debug\net6.0\ref\task2(21-6).dll

@@ -1,0 +1,15 @@
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Важливі файли\01 Коледж\Programing\05 Лабораторна робота 3\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
